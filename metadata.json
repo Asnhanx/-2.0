@@ -1,0 +1,9 @@
+{
+  "name": "噜噜小可爱 (Lulu Cute)",
+  "description": "A mobile-first, cute-style personal record keeper with AI capabilities for text, image generation, and data management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
